@@ -30,7 +30,6 @@
   min-height: 600px;
   max-height: 756px;
   /* выше установили ограничения для секции */
-  display: flex;
   flex-direction: row;
   align-items: stretch;
   background-color: #f2f2f2;
@@ -112,7 +111,7 @@ background-color: #2f80ed;
 
 .two-columns__main-text {
   display: flex;
-  margin: -15px;;
+  margin: -15px;
   flex-direction: column;
   width: 80%;
   min-width: 784px;

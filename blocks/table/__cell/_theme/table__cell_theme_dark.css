@@ -1,0 +1,9 @@
+.table__cell_theme_dark {
+  margin-top: 80px;
+  width: 200px;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  z-index: 1;
+}

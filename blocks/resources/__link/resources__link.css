@@ -1,10 +1,10 @@
 .resources__link {
   margin: 0;
-  background-color: white;
-  transition: background-color 1s ease-in .2s;
+  opacity: 1;
+  transition: opacity 1s ease-in .2s;
 }
 
 .resources__link:hover {
-	background-color: rgba(95, 20, 180, .945);
-	transition: background-color 1s ease-in .2s;
+	opacity: .6;
+	transition: opacity 1s ease-in .2s;
 }
